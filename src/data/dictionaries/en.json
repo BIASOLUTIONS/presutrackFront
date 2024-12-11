@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "na": "SIN/NOMBRE",
+    "dashboard": "Dashboard",
+    "oc": "Oc",
+    "summaryoc": "Resumen OC",
+    "aprobationoc": "Aprobación OC",
+    "receptionBills": "Recepción de facturas (Sincronización SINCO)",
+    "reports": "Reportes",
+    "audit": "Auditoria",
+    "budget": "Presupuesto",
+    "configurations": "Configuraciones",
+    "periods": "Periodos",
+    "users": "Usuarios"
+  }
+}
